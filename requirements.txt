@@ -1,0 +1,16 @@
+#pip install -r requirements.txt (Instalar dependencias)
+
+langchain
+langchain-google-genai
+langchain-community
+langchain-core
+langchain-text-splitters
+langgraph
+graphviz
+python-dotenv
+pydantic
+faiss-cpu
+pymupdf
+openpyxl
+streamlit
+
