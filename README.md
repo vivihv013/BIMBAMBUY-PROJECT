@@ -7,6 +7,14 @@ El proyecto implementa una arquitectura **RAG (Retrieval-Augmented Generation)**
 La aplicación cuenta con una interfaz web desarrollada en **Streamlit**, utiliza **Google Gemini** como modelo de lenguaje, **FAISS** como base vectorial para la recuperación de información y **LangGraph** para orquestar el flujo del agente.
 
 ---
+## Enlace público de la aplicación desplegada: 
+### https://bimbambuy-project-opfwjggbvjd86nd7mpuqyh.streamlit.app/
+
+
+## Despliegue App
+
+![DEPLOY](assets/evidencia_deploy.png)
+
 
 # 🚀 Características
 
@@ -247,17 +255,7 @@ El agente puede responder preguntas como:
 
 Respuesta
 
-> BimBam Buy acepta diferentes métodos de pago disponibles durante el proceso de compra. Los métodos específicos se muestran al momento de realizar el pago y pueden incluir tarjetas, transferencias y otros medios autorizados según la documentación disponible.
-
----
-
-### Pregunta
-
-> ¿Cómo solicito un reembolso?
-
-Respuesta
-
-> Puedes solicitar un reembolso siguiendo el procedimiento indicado en la Política de Reembolsos y Devoluciones. Es importante cumplir con los requisitos y tiempos establecidos para que la solicitud pueda ser evaluada.
+![](assets/método_pago.png)
 
 ---
 
@@ -267,7 +265,7 @@ Respuesta
 
 Respuesta
 
-> El tiempo de entrega depende del destino y del tipo de envío seleccionado. La información detallada sobre los tiempos estimados se encuentra en la Guía de Tiempos y Costos de Envío de BimBam Buy.
+![](assets/tiempo_envío.png)
 
 ---
 
@@ -277,7 +275,7 @@ Respuesta
 
 Respuesta
 
-> No dispongo de esa información en este momento. 😊 Si lo deseas, puedo ayudarte con consultas relacionadas con pedidos, logística, tiempos de entrega, envíos, pagos o políticas disponibles en la información que tengo.
+![](assets/info_empresa.png)
 
 ---
 
@@ -296,3 +294,5 @@ El agente fue diseñado para:
 # 👨‍💻 Autora: **Viviana Hurtado**
 
 Proyecto desarrollado como evidencia de implementación de un **Agente Inteligente RAG** utilizando Google Gemini, LangGraph, FAISS y Streamlit.
+
+
